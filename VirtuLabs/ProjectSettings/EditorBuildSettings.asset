@@ -47,4 +47,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/WrongAnswer.unity
     guid: f3666b091d7755049803d312a16ba64b
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 7b023c91a7e001d4b8ae855650722e5e
   m_configObjects: {}
